@@ -13,7 +13,7 @@
 
 ## 4. แสดงผลการทำ project
 
-
+ไฟกระพริบติดตับทุกๆ5วิ
 https://github.com/user-attachments/assets/c057bebe-3946-4756-b0af-9630b61394fd
 
 
